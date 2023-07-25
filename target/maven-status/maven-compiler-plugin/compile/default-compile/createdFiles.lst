@@ -1,0 +1,6 @@
+me\teixtarcio\listeners\silkTouch.class
+me\teixtarcio\spawners\slime.class
+me\teixtarcio\TSpawners.class
+me\teixtarcio\listeners\placingSpawners.class
+me\teixtarcio\listeners\mobSpawning.class
+me\teixtarcio\commands\tspawnersCommand.class

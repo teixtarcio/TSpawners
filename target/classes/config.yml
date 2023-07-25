@@ -1,0 +1,3 @@
+successfullyBroken: "teste"
+wronglyBroken: "&cYou broke a spawner and you don't have the Silk Touch enchantment and your spawner is lost."
+silk-touch: true
